@@ -242,4 +242,4 @@ constructor(container: HTMLElement, events: IEvents) - принимает эле
 - `product:update` - обновление информации о товаре
 - `product:click` - клик по товару
 - `product:select` - выбор товара
-- `product:listChange`` - изменение списка товаров
+- `product:listChange` - изменение списка товаров
